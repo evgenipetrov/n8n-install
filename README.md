@@ -206,6 +206,7 @@ After successful installation, your services are up and running! Here's how to g
     - **RAGFlow:** `ragflow.yourdomain.com`
     - **SearXNG:** `searxng.yourdomain.com`
     - **Supabase (Dashboard):** `supabase.yourdomain.com`
+    - **Uptime Kuma:** `uptime-kuma.yourdomain.com` (Uptime monitoring dashboard)
     - **WAHA:** `waha.yourdomain.com` (WhatsApp HTTP API; engines: WEBJS, NOWEB, GOWS)
     - **Weaviate:** `weaviate.yourdomain.com`
 

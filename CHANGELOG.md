@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-03-15
+
 ### Added
 - **Uptime Kuma** - Self-hosted uptime monitoring with 90+ notification services
 

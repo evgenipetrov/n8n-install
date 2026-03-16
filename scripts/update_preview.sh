@@ -139,6 +139,11 @@ if is_profile_active "appsmith"; then
     check_image_update "appsmith" "appsmith/appsmith-ce:release"
 fi
 
+if is_profile_active "uptime-kuma"; then
+    log_subheader "Uptime Kuma"
+    check_image_update "uptime-kuma" "louislam/uptime-kuma:2"
+fi
+
 # Summary
 log_divider
 echo ""
